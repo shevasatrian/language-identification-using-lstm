@@ -1,0 +1,11 @@
+,Dutch,Japanese,Indonesian,French,Chinese,Korean,Spanish,Russian,English,Arabic
+Dutch,203,0,0,0,0,0,0,0,1,0
+Japanese,0,190,0,0,0,0,0,0,0,0
+Indonesian,0,0,190,0,1,2,0,1,0,1
+French,0,0,0,190,0,0,1,0,1,4
+Chinese,0,0,0,1,210,0,0,0,0,1
+Korean,0,0,0,1,0,206,0,0,1,0
+Spanish,0,0,0,0,0,0,194,0,0,0
+Russian,0,0,0,0,0,0,0,183,0,1
+English,0,0,0,0,0,2,0,0,210,0
+Arabic,0,0,0,0,2,1,0,0,0,202

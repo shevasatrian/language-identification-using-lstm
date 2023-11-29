@@ -1,0 +1,11 @@
+Label,True Positives,True Negatives,False Positives,False Negatives
+Dutch,203,1796,0,1
+Japanese,190,1810,0,0
+Indonesian,190,1805,0,5
+French,190,1802,2,6
+Chinese,210,1785,3,2
+Korean,206,1787,5,2
+Spanish,194,1805,1,0
+Russian,183,1815,1,1
+English,210,1785,3,2
+Arabic,202,1788,7,3
