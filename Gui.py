@@ -36,7 +36,13 @@ class Gui:
             self.tokenizer = pickle.load(handle)
 
         # Muat model
-        self.model_path = load_model('model/model.h5')
+        # self.model_path = load_model('model/model.h5')
+        # Set model path
+        model_path = 'model/model.h5'
+
+        # Cek jika model ada
+        if os.path.exists(model_path):
+            self.model = load_model(model_path)
         
     def run(self):
         st.title('Language Identification Using Long Short Term Memory Algorithm')
